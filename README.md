@@ -16,7 +16,9 @@ To add these tests to your app, you need to do the following:
   + Go into your new project and start a terminal.
 
 2. From the terminal in your new project, clone your goodbooks repo to a directory named goodbooks:
-  + git clone git@github.com:MSCI-245-S21/hw-goodbooks-YourGitHubUserName.git goodbooks
+```
+git clone git@github.com:MSCI-245-S21/hw-goodbooks-YourGitHubUserName.git goodbooks
+```
 
 3. Assuming you now have your GoodBooks app located at: /home/codio/workspace/goodbooks, do
 ```
